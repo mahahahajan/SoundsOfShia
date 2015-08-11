@@ -12,12 +12,14 @@ textbox{
 }
 input
 {
+  border-radius: 8px;
   border: none;
   width: 20%;
   height: 5vh;
   background-color: #092944;
+  color: white;
 }
 input:hover
 {
-  background-color: #4CAF50;
+  background-color: #0F2C44;
 }
