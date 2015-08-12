@@ -23,3 +23,7 @@ input:hover
 {
   background-color: #0F2C44;
 }
+
+#video{
+  display:none;
+}
